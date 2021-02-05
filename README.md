@@ -1,4 +1,4 @@
 - 🤟 big fan of react
-- 🗡️ know something about functional programming
+- 🗡️ know a little about functional programming
 - 🐵 maybe a little bit of nerdy...
 - 💵 YOLO
